@@ -1,5 +1,5 @@
 - Kare Kod Validasyonu (QR Code Validation)
-
+__________________________________________
 - Bilgiler
 
 
