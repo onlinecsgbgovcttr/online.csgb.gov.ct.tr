@@ -1,17 +1,15 @@
-Kare Kod Validasyonu (QR Code Validation)
+# Kare Kod Validasyonu (QR Code Validation)
 
-Bilgiler
+## Bilgiler
 
-Başvuru No:56028/2024
-Başvuru Tipi:Ön İzin Başvurusu
-Çalışan (İşçi) Ad Soyad:TIMUR ATAJANOV
-Çalışan (İşçi) Pasaport No:A2461716
-Çalışan (İşçi) TC Kimlik No:
-Çalışan(İşçi) Anne Adı: DILFUZA MURADOWNA SARYYEWA
-Çalışan(İşçi) Baba Adı: ATAJAN HAYDAROWIC JUMAYEW
-
-
-Belge Geçerlilik Başlangıç Tarihi:12.06.2024
-Belge Geçerlilik Bitiş Tarihi:12.07.2024
-Onay Durumu:Evet
-Onay Tarihi:22.05.2024
+- **Başvuru No:** 58039/2024
+- **Başvuru Tipi:** Ön izin Başvurusu
+- **Çalışan (işçi) Ad Soyadı:** ILAMAN JUMMANOV
+- **Çalışan (işçi) Pasaport No:** A2549703
+- **Çalışan (işçi) TC Kimlik No:**
+- **Çalışan (işçi) Anne Adı:** JENET JUMANOV
+- **Çalışan (işçi) Baba Adı:** BEŞİM JUMMANOV
+- **Belge Geçerlilik Başlangıç Tarihi:** 15.07.2024
+- **Belge Geçerlilik Bitiş Tarihi:** 15.08.2024
+- **Onay Durumu:** Evet
+- **Onay Tarihi:** 15.06.2024
