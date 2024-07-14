@@ -1,6 +1,8 @@
-# Kare Kod Validasyonu (QR Code Validation)
+- Kare Kod Validasyonu (QR Code Validation)
 
-## Bilgiler
+- Bilgiler
+
+
 
 - **Başvuru No:** 58039/2024
 - **Başvuru Tipi:** Ön izin Başvurusu
